@@ -1,1 +1,13 @@
-<img class="img-responsive entry-content" src="https://getlogo.net/wp-content/uploads/2021/04/port-of-long-beach-polb-logo-vector.png" width="900" height="500" alt="Port of Long Beach (POLB) Logo Vector" itemprop="contentUrl">
+header.dashboard-header {
+  background-color: #cee7ff !important;
+  border-bottom-color: #00519e !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #000 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 50px 40px !important;
+  background-image: url("https://getlogo.net/wp-content/uploads/2021/04/port-of-long-beach-polb-logo-vector.png") !important;
+}
