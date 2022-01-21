@@ -1,5 +1,5 @@
 header.dashboard-header {
-  background-color: #ffffff !important;
+  background-color: #696969 !important;
   border-bottom-color: #000000 !important;
 }
 
@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 30px 40px !important;
-  background-image: url("https://uncomn.com/wp-content/uploads/2018/10/Asset-2@4x-8.png") !important;
+  background-size: 60px 50px !important;
+  background-image: url("https://engage.uncomn.com/assets/img/uncomn-logo.png") !important;
 }
