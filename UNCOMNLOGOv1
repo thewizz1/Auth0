@@ -1,0 +1,13 @@
+header.dashboard-header {
+  background-color: #ffffff !important;
+  border-bottom-color: #000000 !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #000 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 120px 110px !important;
+  background-image: url("https://i.imgur.com/wqFvXZr.png") !important;
+}
