@@ -1,6 +1,6 @@
 header.dashboard-header {
-  background-color: #021f52 !important;
-  border-bottom-color: #00519e !important;
+  background-color: #cee7ff !important;
+  border-bottom-color: #021f52 !important;
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 40px 40px !important;
-  background-image: url("https://www.pacificports.org/wp-content/uploads/2020/06/Port-of-Long-Beach-logo-2020-webarticle.jpg") !important;
+  background-size: 80px 70px !important;
+  background-image: url("https://chambermaster.blob.core.windows.net/images/customers/1956/members/4687/logos/MEMBER_PAGE_HEADER/POLB_PC_h_2c.jpg") !important;
 }
