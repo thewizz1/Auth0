@@ -1,5 +1,5 @@
 header.dashboard-header {
-  background-color: #cee7ff !important;
+  background-color: ##021f52 !important;
   border-bottom-color: #00519e !important;
 }
 
@@ -8,6 +8,6 @@ header.dashboard-header {
 }
 
 header.dashboard-header nav #header {
-  background-size: 60px 50px !important;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDxHIFOYrqRE5Zyd6nuV-rUnetlGJBDEXPMwQz_m3MsIsQ28GeeI06ioMgEUwBiLIe8g&amp;usqp=CAU%22%20alt=%22Homepage%20-%20Port%20of%20Long%20Beach%22%20jsaction=%22load:XAeZkd;%22%20jsname=%22HiaYvf%22%20class=%22n3VNCb%22%20data-noaft=%221%22%20style=%22width:%20359px;%20height:%2090px;%20margin:%2067.65px%200px;%22%3E") !important;
+  background-size: 40px 40px !important;
+  background-image: url("https://www.pacificports.org/wp-content/uploads/2020/06/Port-of-Long-Beach-logo-2020-webarticle.jpg") !important;
 }
