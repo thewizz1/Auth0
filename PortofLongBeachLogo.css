@@ -1,5 +1,5 @@
 header.dashboard-header {
-  background-color: #002345 !important;
+  background-color: #cee7ff !important;
   border-bottom-color: #00519e !important;
 }
 
@@ -9,5 +9,5 @@ header.dashboard-header {
 
 header.dashboard-header nav #header {
   background-size: 50px 40px !important;
-  background-image: url("https://getlogo.net/wp-content/uploads/2021/04/port-of-long-beach-polb-logo-vector.png"
+  background-image: url("https://getlogo.net/wp-content/uploads/2021/04/port-of-long-beach-polb-logo-vector.png" !important;
 }
