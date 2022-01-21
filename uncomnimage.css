@@ -1,0 +1,13 @@
+header.dashboard-header {
+  background-color: #ffffff !important;
+  border-bottom-color: #00519e !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #000 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 50px 40px !important;
+  background-image: url("https://uncomn.com/wp-content/uploads/2018/10/uncomn_Logo_whtorange_FIN.png") !important;
+}
